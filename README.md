@@ -1,5 +1,5 @@
 # My World :heart:
-Inspired by amazing individuals in Git-Hub.I am writing this by standing on the shoulders of my great, please let me know if I have not credited where it is due.
+Inspired by amazing individuals in GitHub.I am writing this by standing on the shoulders of the great, please let me know if I have not credited where it is due.
 
 #### Find Me Somewhere Else
 
